@@ -1,0 +1,19 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Você vai ter que verificar item a item da matriz comparando com o vetor.
+Tem que considerar que se o valor da matriz na posição [1,1] for igual a vetor na posição [1] você deve passar para a posição de ambos, e no caso da matriz, mantendo a mesma linha (matriz[1,2] vetor[2]). Porem se os numeros forem diferentes, você deve passar para a proxima linha, zerando os demais contadores (matriz[2,1] vetor[1])
+Você deverá fazer o mesmo para o vetor invertido e para a procura pelas colunas, que no caso seria basecamente inverter os contadores da matriz
