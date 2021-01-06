@@ -1,0 +1,13 @@
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_Sequencial\EX6\EX6\EX6\bin\Debug\netcoreapp3.1\EX6.exe
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_Sequencial\EX6\EX6\EX6\bin\Debug\netcoreapp3.1\EX6.deps.json
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_Sequencial\EX6\EX6\EX6\bin\Debug\netcoreapp3.1\EX6.runtimeconfig.json
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_Sequencial\EX6\EX6\EX6\bin\Debug\netcoreapp3.1\EX6.runtimeconfig.dev.json
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_Sequencial\EX6\EX6\EX6\bin\Debug\netcoreapp3.1\EX6.dll
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_Sequencial\EX6\EX6\EX6\bin\Debug\netcoreapp3.1\EX6.pdb
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_Sequencial\EX6\EX6\EX6\obj\Debug\netcoreapp3.1\EX6.csprojAssemblyReference.cache
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_Sequencial\EX6\EX6\EX6\obj\Debug\netcoreapp3.1\EX6.AssemblyInfoInputs.cache
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_Sequencial\EX6\EX6\EX6\obj\Debug\netcoreapp3.1\EX6.AssemblyInfo.cs
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_Sequencial\EX6\EX6\EX6\obj\Debug\netcoreapp3.1\EX6.csproj.CoreCompileInputs.cache
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_Sequencial\EX6\EX6\EX6\obj\Debug\netcoreapp3.1\EX6.dll
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_Sequencial\EX6\EX6\EX6\obj\Debug\netcoreapp3.1\EX6.pdb
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_Sequencial\EX6\EX6\EX6\obj\Debug\netcoreapp3.1\EX6.genruntimeconfig.cache
