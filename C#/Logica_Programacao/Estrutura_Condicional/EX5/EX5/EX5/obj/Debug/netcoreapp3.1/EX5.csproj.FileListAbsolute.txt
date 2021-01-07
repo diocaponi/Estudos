@@ -1,0 +1,13 @@
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_Condicional\EX5\EX5\EX5\obj\Debug\netcoreapp3.1\EX5.csprojAssemblyReference.cache
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_Condicional\EX5\EX5\EX5\obj\Debug\netcoreapp3.1\EX5.AssemblyInfoInputs.cache
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_Condicional\EX5\EX5\EX5\obj\Debug\netcoreapp3.1\EX5.AssemblyInfo.cs
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_Condicional\EX5\EX5\EX5\obj\Debug\netcoreapp3.1\EX5.csproj.CoreCompileInputs.cache
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_Condicional\EX5\EX5\EX5\bin\Debug\netcoreapp3.1\EX5.exe
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_Condicional\EX5\EX5\EX5\bin\Debug\netcoreapp3.1\EX5.deps.json
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_Condicional\EX5\EX5\EX5\bin\Debug\netcoreapp3.1\EX5.runtimeconfig.json
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_Condicional\EX5\EX5\EX5\bin\Debug\netcoreapp3.1\EX5.runtimeconfig.dev.json
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_Condicional\EX5\EX5\EX5\bin\Debug\netcoreapp3.1\EX5.dll
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_Condicional\EX5\EX5\EX5\bin\Debug\netcoreapp3.1\EX5.pdb
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_Condicional\EX5\EX5\EX5\obj\Debug\netcoreapp3.1\EX5.dll
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_Condicional\EX5\EX5\EX5\obj\Debug\netcoreapp3.1\EX5.pdb
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_Condicional\EX5\EX5\EX5\obj\Debug\netcoreapp3.1\EX5.genruntimeconfig.cache
