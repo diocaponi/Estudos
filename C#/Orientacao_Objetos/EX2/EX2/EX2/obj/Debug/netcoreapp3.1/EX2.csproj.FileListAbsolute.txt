@@ -1,0 +1,13 @@
+C:\Estudos\trunk\C#\Orientacao_Objetos\EX2\EX2\EX2\bin\Debug\netcoreapp3.1\EX2.exe
+C:\Estudos\trunk\C#\Orientacao_Objetos\EX2\EX2\EX2\bin\Debug\netcoreapp3.1\EX2.deps.json
+C:\Estudos\trunk\C#\Orientacao_Objetos\EX2\EX2\EX2\bin\Debug\netcoreapp3.1\EX2.runtimeconfig.json
+C:\Estudos\trunk\C#\Orientacao_Objetos\EX2\EX2\EX2\bin\Debug\netcoreapp3.1\EX2.runtimeconfig.dev.json
+C:\Estudos\trunk\C#\Orientacao_Objetos\EX2\EX2\EX2\bin\Debug\netcoreapp3.1\EX2.dll
+C:\Estudos\trunk\C#\Orientacao_Objetos\EX2\EX2\EX2\bin\Debug\netcoreapp3.1\EX2.pdb
+C:\Estudos\trunk\C#\Orientacao_Objetos\EX2\EX2\EX2\obj\Debug\netcoreapp3.1\EX2.csprojAssemblyReference.cache
+C:\Estudos\trunk\C#\Orientacao_Objetos\EX2\EX2\EX2\obj\Debug\netcoreapp3.1\EX2.AssemblyInfoInputs.cache
+C:\Estudos\trunk\C#\Orientacao_Objetos\EX2\EX2\EX2\obj\Debug\netcoreapp3.1\EX2.AssemblyInfo.cs
+C:\Estudos\trunk\C#\Orientacao_Objetos\EX2\EX2\EX2\obj\Debug\netcoreapp3.1\EX2.csproj.CoreCompileInputs.cache
+C:\Estudos\trunk\C#\Orientacao_Objetos\EX2\EX2\EX2\obj\Debug\netcoreapp3.1\EX2.dll
+C:\Estudos\trunk\C#\Orientacao_Objetos\EX2\EX2\EX2\obj\Debug\netcoreapp3.1\EX2.pdb
+C:\Estudos\trunk\C#\Orientacao_Objetos\EX2\EX2\EX2\obj\Debug\netcoreapp3.1\EX2.genruntimeconfig.cache
