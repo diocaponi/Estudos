@@ -1,0 +1,13 @@
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_for\EX3\EX3\EX3\bin\Debug\netcoreapp3.1\EX3.exe
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_for\EX3\EX3\EX3\bin\Debug\netcoreapp3.1\EX3.deps.json
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_for\EX3\EX3\EX3\bin\Debug\netcoreapp3.1\EX3.runtimeconfig.json
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_for\EX3\EX3\EX3\bin\Debug\netcoreapp3.1\EX3.runtimeconfig.dev.json
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_for\EX3\EX3\EX3\bin\Debug\netcoreapp3.1\EX3.dll
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_for\EX3\EX3\EX3\bin\Debug\netcoreapp3.1\EX3.pdb
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_for\EX3\EX3\EX3\obj\Debug\netcoreapp3.1\EX3.csprojAssemblyReference.cache
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_for\EX3\EX3\EX3\obj\Debug\netcoreapp3.1\EX3.AssemblyInfoInputs.cache
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_for\EX3\EX3\EX3\obj\Debug\netcoreapp3.1\EX3.AssemblyInfo.cs
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_for\EX3\EX3\EX3\obj\Debug\netcoreapp3.1\EX3.csproj.CoreCompileInputs.cache
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_for\EX3\EX3\EX3\obj\Debug\netcoreapp3.1\EX3.dll
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_for\EX3\EX3\EX3\obj\Debug\netcoreapp3.1\EX3.pdb
+C:\Estudos\trunk\C#\Logica_Programacao\Estrutura_for\EX3\EX3\EX3\obj\Debug\netcoreapp3.1\EX3.genruntimeconfig.cache
