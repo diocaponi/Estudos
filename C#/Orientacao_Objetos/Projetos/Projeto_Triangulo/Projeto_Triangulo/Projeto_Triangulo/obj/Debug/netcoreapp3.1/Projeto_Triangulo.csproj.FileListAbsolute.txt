@@ -1,0 +1,13 @@
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projeto_Triangulo\Projeto_Triangulo\Projeto_Triangulo\bin\Debug\netcoreapp3.1\Projeto_Triangulo.exe
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projeto_Triangulo\Projeto_Triangulo\Projeto_Triangulo\bin\Debug\netcoreapp3.1\Projeto_Triangulo.deps.json
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projeto_Triangulo\Projeto_Triangulo\Projeto_Triangulo\bin\Debug\netcoreapp3.1\Projeto_Triangulo.runtimeconfig.json
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projeto_Triangulo\Projeto_Triangulo\Projeto_Triangulo\bin\Debug\netcoreapp3.1\Projeto_Triangulo.runtimeconfig.dev.json
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projeto_Triangulo\Projeto_Triangulo\Projeto_Triangulo\bin\Debug\netcoreapp3.1\Projeto_Triangulo.dll
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projeto_Triangulo\Projeto_Triangulo\Projeto_Triangulo\bin\Debug\netcoreapp3.1\Projeto_Triangulo.pdb
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projeto_Triangulo\Projeto_Triangulo\Projeto_Triangulo\obj\Debug\netcoreapp3.1\Projeto_Triangulo.csprojAssemblyReference.cache
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projeto_Triangulo\Projeto_Triangulo\Projeto_Triangulo\obj\Debug\netcoreapp3.1\Projeto_Triangulo.AssemblyInfoInputs.cache
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projeto_Triangulo\Projeto_Triangulo\Projeto_Triangulo\obj\Debug\netcoreapp3.1\Projeto_Triangulo.AssemblyInfo.cs
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projeto_Triangulo\Projeto_Triangulo\Projeto_Triangulo\obj\Debug\netcoreapp3.1\Projeto_Triangulo.csproj.CoreCompileInputs.cache
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projeto_Triangulo\Projeto_Triangulo\Projeto_Triangulo\obj\Debug\netcoreapp3.1\Projeto_Triangulo.dll
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projeto_Triangulo\Projeto_Triangulo\Projeto_Triangulo\obj\Debug\netcoreapp3.1\Projeto_Triangulo.pdb
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projeto_Triangulo\Projeto_Triangulo\Projeto_Triangulo\obj\Debug\netcoreapp3.1\Projeto_Triangulo.genruntimeconfig.cache

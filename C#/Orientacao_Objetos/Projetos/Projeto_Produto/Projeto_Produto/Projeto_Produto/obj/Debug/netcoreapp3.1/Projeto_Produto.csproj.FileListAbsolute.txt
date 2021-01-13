@@ -1,0 +1,13 @@
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projetos\Projeto_Produto\Projeto_Produto\Projeto_Produto\bin\Debug\netcoreapp3.1\Projeto_Produto.exe
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projetos\Projeto_Produto\Projeto_Produto\Projeto_Produto\bin\Debug\netcoreapp3.1\Projeto_Produto.deps.json
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projetos\Projeto_Produto\Projeto_Produto\Projeto_Produto\bin\Debug\netcoreapp3.1\Projeto_Produto.runtimeconfig.json
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projetos\Projeto_Produto\Projeto_Produto\Projeto_Produto\bin\Debug\netcoreapp3.1\Projeto_Produto.runtimeconfig.dev.json
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projetos\Projeto_Produto\Projeto_Produto\Projeto_Produto\bin\Debug\netcoreapp3.1\Projeto_Produto.dll
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projetos\Projeto_Produto\Projeto_Produto\Projeto_Produto\bin\Debug\netcoreapp3.1\Projeto_Produto.pdb
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projetos\Projeto_Produto\Projeto_Produto\Projeto_Produto\obj\Debug\netcoreapp3.1\Projeto_Produto.csprojAssemblyReference.cache
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projetos\Projeto_Produto\Projeto_Produto\Projeto_Produto\obj\Debug\netcoreapp3.1\Projeto_Produto.AssemblyInfoInputs.cache
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projetos\Projeto_Produto\Projeto_Produto\Projeto_Produto\obj\Debug\netcoreapp3.1\Projeto_Produto.AssemblyInfo.cs
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projetos\Projeto_Produto\Projeto_Produto\Projeto_Produto\obj\Debug\netcoreapp3.1\Projeto_Produto.csproj.CoreCompileInputs.cache
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projetos\Projeto_Produto\Projeto_Produto\Projeto_Produto\obj\Debug\netcoreapp3.1\Projeto_Produto.dll
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projetos\Projeto_Produto\Projeto_Produto\Projeto_Produto\obj\Debug\netcoreapp3.1\Projeto_Produto.pdb
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projetos\Projeto_Produto\Projeto_Produto\Projeto_Produto\obj\Debug\netcoreapp3.1\Projeto_Produto.genruntimeconfig.cache
