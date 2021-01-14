@@ -1,0 +1,13 @@
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projetos\EX4\EX4\EX4\bin\Debug\netcoreapp3.1\EX4.exe
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projetos\EX4\EX4\EX4\bin\Debug\netcoreapp3.1\EX4.deps.json
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projetos\EX4\EX4\EX4\bin\Debug\netcoreapp3.1\EX4.runtimeconfig.json
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projetos\EX4\EX4\EX4\bin\Debug\netcoreapp3.1\EX4.runtimeconfig.dev.json
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projetos\EX4\EX4\EX4\bin\Debug\netcoreapp3.1\EX4.dll
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projetos\EX4\EX4\EX4\bin\Debug\netcoreapp3.1\EX4.pdb
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projetos\EX4\EX4\EX4\obj\Debug\netcoreapp3.1\EX4.csprojAssemblyReference.cache
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projetos\EX4\EX4\EX4\obj\Debug\netcoreapp3.1\EX4.AssemblyInfoInputs.cache
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projetos\EX4\EX4\EX4\obj\Debug\netcoreapp3.1\EX4.AssemblyInfo.cs
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projetos\EX4\EX4\EX4\obj\Debug\netcoreapp3.1\EX4.csproj.CoreCompileInputs.cache
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projetos\EX4\EX4\EX4\obj\Debug\netcoreapp3.1\EX4.dll
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projetos\EX4\EX4\EX4\obj\Debug\netcoreapp3.1\EX4.pdb
+C:\Estudos\trunk\C#\Orientacao_Objetos\Projetos\EX4\EX4\EX4\obj\Debug\netcoreapp3.1\EX4.genruntimeconfig.cache
