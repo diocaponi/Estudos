@@ -9,7 +9,7 @@ namespace EX6
             Console.Write("Digite um número inteiro para saber seus divisores: ");
             int n = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Os divisores de " + n + " são: " );
+            Console.WriteLine("Os divisores de " + n + " são: ");
             for (int i = 1; i <= n; i++)
             {
                 if (n % i == 0)

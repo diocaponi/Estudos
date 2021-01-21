@@ -17,13 +17,15 @@ namespace EX1
             Console.Write("Haverá depósito inicial (s/n) ?: ");
             char resp = char.Parse(Console.ReadLine());
 
-            if (resp == 's' || resp == 'S') {
+            if (resp == 's' || resp == 'S')
+            {
                 Console.Write("Digite o valor do depósito inicial: ");
                 double depositoInicial = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-                
+
                 conta = new ContaBancaria(numero, titular, depositoInicial);
-            } 
-            else{
+            }
+            else
+            {
                 conta = new ContaBancaria(numero, titular);
 
             }
@@ -36,12 +38,12 @@ namespace EX1
             Console.Write("Digite um valor para depósito: ");
             double quantia = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             conta.Deposito(quantia);
-            
+
             Console.WriteLine("Dados atualizados: ");
             Console.WriteLine(conta);
 
             Console.WriteLine();
-            
+
             Console.Write("Digite um valor para saque: ");
             quantia = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             conta.Saque(quantia);

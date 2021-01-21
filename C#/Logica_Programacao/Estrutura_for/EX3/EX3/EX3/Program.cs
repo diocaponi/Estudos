@@ -9,11 +9,11 @@ namespace EX3
         {
             Console.Write("Digite a quantidade de casos que deseja: ");
             int n = int.Parse(Console.ReadLine());
-            
+
             for (int i = 0; i < n; i++)
             {
                 string[] linha = Console.ReadLine().Split(' ');
-                
+
                 double a = double.Parse(linha[0], CultureInfo.InvariantCulture);
                 double b = double.Parse(linha[1], CultureInfo.InvariantCulture);
                 double c = double.Parse(linha[2], CultureInfo.InvariantCulture);

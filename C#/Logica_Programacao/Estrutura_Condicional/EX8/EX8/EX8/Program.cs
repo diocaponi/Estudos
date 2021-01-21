@@ -16,8 +16,8 @@ namespace EX8
 
             Console.Write("Digite o salário para saber o imposto de renda: ");
             double salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-                   
-            
+
+
             double imposto;
             if (salario <= 2000.0)
             {

@@ -9,14 +9,14 @@ namespace EX2
             Console.Write("Digite um número inteiro: ");
             int n = int.Parse(Console.ReadLine());
 
-            if (n % 2 == 0 )
+            if (n % 2 == 0)
             {
                 Console.WriteLine("Número PAR");
             }
             else
             {
                 Console.WriteLine("Número IMPAR");
-            }    
+            }
 
         }
     }

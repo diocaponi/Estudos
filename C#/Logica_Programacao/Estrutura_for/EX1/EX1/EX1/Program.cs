@@ -11,7 +11,7 @@ namespace EX1
             int x = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Os número ímpares até " + x + " são: ");
-            
+
             for (int i = 1; i <= x; i++)
             {
                 if (i % 2 != 0)

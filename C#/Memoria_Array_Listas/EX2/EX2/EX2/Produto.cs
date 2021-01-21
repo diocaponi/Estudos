@@ -2,7 +2,8 @@
 
 namespace EX2
 {
-    class Produto {
+    class Produto
+    {
         public string Nome { get; set; }
         public double Preco { get; set; }
     }

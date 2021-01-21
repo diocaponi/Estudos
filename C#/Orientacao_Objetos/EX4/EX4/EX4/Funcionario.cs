@@ -8,7 +8,7 @@ namespace EX4
         public string Nome;
         public double SalarioBruto;
         public double Imposto;
-        
+
         public double SalarioLiquido()
         {
             return SalarioBruto - Imposto;

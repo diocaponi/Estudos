@@ -12,7 +12,7 @@ namespace EX1
             Console.WriteLine("Digite os dados da primeira pessoa: ");
             Console.Write("Nome: ");
             p1.nome = Console.ReadLine();
-            
+
             Console.Write("Idade: ");
             p1.idade = int.Parse(Console.ReadLine());
 
@@ -25,7 +25,7 @@ namespace EX1
 
             Console.WriteLine(" ");
 
-            if ( p1.idade > p2.idade)
+            if (p1.idade > p2.idade)
             {
                 Console.WriteLine("Primeira pessoa é mais velha.");
             }

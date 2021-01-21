@@ -10,7 +10,7 @@ namespace Projeto_Produto
             Produto p = new Produto();
 
             Console.WriteLine("Digite as informações do produto:");
-            
+
             Console.Write("Nome: ");
             p.Nome = Console.ReadLine();
 

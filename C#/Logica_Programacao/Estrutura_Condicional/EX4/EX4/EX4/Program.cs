@@ -12,8 +12,9 @@ namespace EX4
             int horaFinal = int.Parse(valores[1]);
 
             int duracao;
-             
-            if (horaInicial < horaFinal) {
+
+            if (horaInicial < horaFinal)
+            {
                 duracao = horaFinal - horaInicial;
             }
             else
@@ -22,7 +23,7 @@ namespace EX4
             }
 
             Console.WriteLine("A duração da partida foi de: " + duracao + " hora(s).");
-        
+
         }
     }
 }

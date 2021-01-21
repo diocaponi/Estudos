@@ -9,8 +9,9 @@ namespace EX1
             Console.Write("Digite um número inteiro: ");
             int n = int.Parse(Console.ReadLine());
 
-            if ( n > 0 ) {
-                Console.WriteLine("Positivo");                
+            if (n > 0)
+            {
+                Console.WriteLine("Positivo");
             }
             else
             {

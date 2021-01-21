@@ -8,10 +8,10 @@ namespace EX4
         static void Main(string[] args)
         {
             Funcionario func = new Funcionario();
-            
+
             Console.Write("Digite o nome do funcionário: ");
             func.Nome = Console.ReadLine();
-            
+
             Console.Write("Digite o salário bruto do funcionário: ");
             func.SalarioBruto = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
@@ -21,7 +21,7 @@ namespace EX4
             Console.WriteLine();
 
             Console.WriteLine("Funcionário: " + func.Nome + " $" + func.SalarioLiquido().ToString("F2", CultureInfo.InvariantCulture));
-            
+
             Console.Write("Digite a porcentagem para aumentar o salário: ");
             double porcent = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             func.AumentarSalario(porcent);

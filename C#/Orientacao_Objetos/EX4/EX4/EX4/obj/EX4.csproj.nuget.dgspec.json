@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Estudos\\trunk\\C#\\Orientacao_Objetos\\Projetos\\EX4\\EX4\\EX4\\EX4.csproj": {}
+    "C:\\Estudos\\trunk\\C#\\Orientacao_Objetos\\EX4\\EX4\\EX4\\EX4.csproj": {}
   },
   "projects": {
-    "C:\\Estudos\\trunk\\C#\\Orientacao_Objetos\\Projetos\\EX4\\EX4\\EX4\\EX4.csproj": {
+    "C:\\Estudos\\trunk\\C#\\Orientacao_Objetos\\EX4\\EX4\\EX4\\EX4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Estudos\\trunk\\C#\\Orientacao_Objetos\\Projetos\\EX4\\EX4\\EX4\\EX4.csproj",
+        "projectUniqueName": "C:\\Estudos\\trunk\\C#\\Orientacao_Objetos\\EX4\\EX4\\EX4\\EX4.csproj",
         "projectName": "EX4",
-        "projectPath": "C:\\Estudos\\trunk\\C#\\Orientacao_Objetos\\Projetos\\EX4\\EX4\\EX4\\EX4.csproj",
+        "projectPath": "C:\\Estudos\\trunk\\C#\\Orientacao_Objetos\\EX4\\EX4\\EX4\\EX4.csproj",
         "packagesPath": "C:\\Users\\Win10\\.nuget\\packages\\",
-        "outputPath": "C:\\Estudos\\trunk\\C#\\Orientacao_Objetos\\Projetos\\EX4\\EX4\\EX4\\obj\\",
+        "outputPath": "C:\\Estudos\\trunk\\C#\\Orientacao_Objetos\\EX4\\EX4\\EX4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

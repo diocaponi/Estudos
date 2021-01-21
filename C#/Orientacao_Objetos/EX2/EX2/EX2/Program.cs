@@ -28,7 +28,7 @@ namespace EX2
 
             double media = (p1.salario + p2.salario) / 2;
 
-            Console.WriteLine("Média dos salários é " + media.ToString("F2",CultureInfo.InvariantCulture));
+            Console.WriteLine("Média dos salários é " + media.ToString("F2", CultureInfo.InvariantCulture));
         }
     }
 }

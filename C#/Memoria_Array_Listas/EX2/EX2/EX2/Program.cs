@@ -14,17 +14,19 @@ namespace EX2
 
             Console.WriteLine();
 
-            for (int i = 0; i < n; i++) {
+            for (int i = 0; i < n; i++)
+            {
                 Console.WriteLine("Digite o nome e preço o produto #" + i + ": ");
                 string nome = Console.ReadLine();
                 double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                 vet[i] = new Produto { Nome = nome, Preco = preco };
                 Console.WriteLine();
             }
-            
+
             double soma = 0.0;
-            
-            for (int i = 0; i < n; i++) {
+
+            for (int i = 0; i < n; i++)
+            {
                 soma += vet[i].Preco;
             }
 

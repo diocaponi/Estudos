@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Estudos\\trunk\\C#\\Orientacao_Objetos\\Projetos\\EX3\\EX3\\EX3\\EX3.csproj": {}
+    "C:\\Estudos\\trunk\\C#\\Orientacao_Objetos\\EX3\\EX3\\EX3\\EX3.csproj": {}
   },
   "projects": {
-    "C:\\Estudos\\trunk\\C#\\Orientacao_Objetos\\Projetos\\EX3\\EX3\\EX3\\EX3.csproj": {
+    "C:\\Estudos\\trunk\\C#\\Orientacao_Objetos\\EX3\\EX3\\EX3\\EX3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Estudos\\trunk\\C#\\Orientacao_Objetos\\Projetos\\EX3\\EX3\\EX3\\EX3.csproj",
+        "projectUniqueName": "C:\\Estudos\\trunk\\C#\\Orientacao_Objetos\\EX3\\EX3\\EX3\\EX3.csproj",
         "projectName": "EX3",
-        "projectPath": "C:\\Estudos\\trunk\\C#\\Orientacao_Objetos\\Projetos\\EX3\\EX3\\EX3\\EX3.csproj",
+        "projectPath": "C:\\Estudos\\trunk\\C#\\Orientacao_Objetos\\EX3\\EX3\\EX3\\EX3.csproj",
         "packagesPath": "C:\\Users\\Win10\\.nuget\\packages\\",
-        "outputPath": "C:\\Estudos\\trunk\\C#\\Orientacao_Objetos\\Projetos\\EX3\\EX3\\EX3\\obj\\",
+        "outputPath": "C:\\Estudos\\trunk\\C#\\Orientacao_Objetos\\EX3\\EX3\\EX3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

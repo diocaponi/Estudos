@@ -15,7 +15,8 @@ namespace EX3
             {
                 Console.WriteLine("São múltiplos.");
             }
-            else {
+            else
+            {
                 Console.WriteLine("Não são múltiplos.");
             }
 
