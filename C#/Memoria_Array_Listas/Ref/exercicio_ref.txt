@@ -1,0 +1,1 @@
+Desenvolva um programa que triplique um número inteiro, utilizando uma classe com um método específico. Utilize o conceite de "ref".

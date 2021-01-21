@@ -1,0 +1,13 @@
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Ref_Out\EX_Ref\EX_REF\EX_REF\bin\Debug\netcoreapp3.1\EX_REF.exe
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Ref_Out\EX_Ref\EX_REF\EX_REF\bin\Debug\netcoreapp3.1\EX_REF.deps.json
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Ref_Out\EX_Ref\EX_REF\EX_REF\bin\Debug\netcoreapp3.1\EX_REF.runtimeconfig.json
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Ref_Out\EX_Ref\EX_REF\EX_REF\bin\Debug\netcoreapp3.1\EX_REF.runtimeconfig.dev.json
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Ref_Out\EX_Ref\EX_REF\EX_REF\bin\Debug\netcoreapp3.1\EX_REF.dll
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Ref_Out\EX_Ref\EX_REF\EX_REF\bin\Debug\netcoreapp3.1\EX_REF.pdb
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Ref_Out\EX_Ref\EX_REF\EX_REF\obj\Debug\netcoreapp3.1\EX_REF.csprojAssemblyReference.cache
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Ref_Out\EX_Ref\EX_REF\EX_REF\obj\Debug\netcoreapp3.1\EX_REF.AssemblyInfoInputs.cache
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Ref_Out\EX_Ref\EX_REF\EX_REF\obj\Debug\netcoreapp3.1\EX_REF.AssemblyInfo.cs
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Ref_Out\EX_Ref\EX_REF\EX_REF\obj\Debug\netcoreapp3.1\EX_REF.csproj.CoreCompileInputs.cache
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Ref_Out\EX_Ref\EX_REF\EX_REF\obj\Debug\netcoreapp3.1\EX_REF.dll
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Ref_Out\EX_Ref\EX_REF\EX_REF\obj\Debug\netcoreapp3.1\EX_REF.pdb
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Ref_Out\EX_Ref\EX_REF\EX_REF\obj\Debug\netcoreapp3.1\EX_REF.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Listas\Demo_Lista\Demo_Lista\Demo_Lista\bin\Debug\netcoreapp3.1\Demo_Lista.exe
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Listas\Demo_Lista\Demo_Lista\Demo_Lista\bin\Debug\netcoreapp3.1\Demo_Lista.deps.json
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Listas\Demo_Lista\Demo_Lista\Demo_Lista\bin\Debug\netcoreapp3.1\Demo_Lista.runtimeconfig.json
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Listas\Demo_Lista\Demo_Lista\Demo_Lista\bin\Debug\netcoreapp3.1\Demo_Lista.runtimeconfig.dev.json
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Listas\Demo_Lista\Demo_Lista\Demo_Lista\bin\Debug\netcoreapp3.1\Demo_Lista.dll
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Listas\Demo_Lista\Demo_Lista\Demo_Lista\bin\Debug\netcoreapp3.1\Demo_Lista.pdb
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Listas\Demo_Lista\Demo_Lista\Demo_Lista\obj\Debug\netcoreapp3.1\Demo_Lista.csprojAssemblyReference.cache
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Listas\Demo_Lista\Demo_Lista\Demo_Lista\obj\Debug\netcoreapp3.1\Demo_Lista.AssemblyInfoInputs.cache
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Listas\Demo_Lista\Demo_Lista\Demo_Lista\obj\Debug\netcoreapp3.1\Demo_Lista.AssemblyInfo.cs
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Listas\Demo_Lista\Demo_Lista\Demo_Lista\obj\Debug\netcoreapp3.1\Demo_Lista.csproj.CoreCompileInputs.cache
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Listas\Demo_Lista\Demo_Lista\Demo_Lista\obj\Debug\netcoreapp3.1\Demo_Lista.dll
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Listas\Demo_Lista\Demo_Lista\Demo_Lista\obj\Debug\netcoreapp3.1\Demo_Lista.pdb
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Listas\Demo_Lista\Demo_Lista\Demo_Lista\obj\Debug\netcoreapp3.1\Demo_Lista.genruntimeconfig.cache
