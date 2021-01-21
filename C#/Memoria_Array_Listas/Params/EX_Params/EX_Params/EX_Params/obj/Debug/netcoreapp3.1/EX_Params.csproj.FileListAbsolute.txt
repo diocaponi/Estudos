@@ -1,0 +1,13 @@
+C:\Estudos\trunk\C#\Memoria_Array_Listas\EX_Params\EX_Params\EX_Params\bin\Debug\netcoreapp3.1\EX_Params.exe
+C:\Estudos\trunk\C#\Memoria_Array_Listas\EX_Params\EX_Params\EX_Params\bin\Debug\netcoreapp3.1\EX_Params.deps.json
+C:\Estudos\trunk\C#\Memoria_Array_Listas\EX_Params\EX_Params\EX_Params\bin\Debug\netcoreapp3.1\EX_Params.runtimeconfig.json
+C:\Estudos\trunk\C#\Memoria_Array_Listas\EX_Params\EX_Params\EX_Params\bin\Debug\netcoreapp3.1\EX_Params.runtimeconfig.dev.json
+C:\Estudos\trunk\C#\Memoria_Array_Listas\EX_Params\EX_Params\EX_Params\bin\Debug\netcoreapp3.1\EX_Params.dll
+C:\Estudos\trunk\C#\Memoria_Array_Listas\EX_Params\EX_Params\EX_Params\bin\Debug\netcoreapp3.1\EX_Params.pdb
+C:\Estudos\trunk\C#\Memoria_Array_Listas\EX_Params\EX_Params\EX_Params\obj\Debug\netcoreapp3.1\EX_Params.csprojAssemblyReference.cache
+C:\Estudos\trunk\C#\Memoria_Array_Listas\EX_Params\EX_Params\EX_Params\obj\Debug\netcoreapp3.1\EX_Params.AssemblyInfoInputs.cache
+C:\Estudos\trunk\C#\Memoria_Array_Listas\EX_Params\EX_Params\EX_Params\obj\Debug\netcoreapp3.1\EX_Params.AssemblyInfo.cs
+C:\Estudos\trunk\C#\Memoria_Array_Listas\EX_Params\EX_Params\EX_Params\obj\Debug\netcoreapp3.1\EX_Params.csproj.CoreCompileInputs.cache
+C:\Estudos\trunk\C#\Memoria_Array_Listas\EX_Params\EX_Params\EX_Params\obj\Debug\netcoreapp3.1\EX_Params.dll
+C:\Estudos\trunk\C#\Memoria_Array_Listas\EX_Params\EX_Params\EX_Params\obj\Debug\netcoreapp3.1\EX_Params.pdb
+C:\Estudos\trunk\C#\Memoria_Array_Listas\EX_Params\EX_Params\EX_Params\obj\Debug\netcoreapp3.1\EX_Params.genruntimeconfig.cache

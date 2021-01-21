@@ -1,0 +1,1 @@
+Desenvolver uma função de receba N números inteiros e realize a soma dos mesmos. Utilize o conceito de modificador de parametros "params".
