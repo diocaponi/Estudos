@@ -1,0 +1,13 @@
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Matriz\DEMO_MATRIZ\DEMO_MATRIZ\bin\Debug\netcoreapp3.1\DEMO_MATRIZ.exe
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Matriz\DEMO_MATRIZ\DEMO_MATRIZ\bin\Debug\netcoreapp3.1\DEMO_MATRIZ.deps.json
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Matriz\DEMO_MATRIZ\DEMO_MATRIZ\bin\Debug\netcoreapp3.1\DEMO_MATRIZ.runtimeconfig.json
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Matriz\DEMO_MATRIZ\DEMO_MATRIZ\bin\Debug\netcoreapp3.1\DEMO_MATRIZ.runtimeconfig.dev.json
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Matriz\DEMO_MATRIZ\DEMO_MATRIZ\bin\Debug\netcoreapp3.1\DEMO_MATRIZ.dll
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Matriz\DEMO_MATRIZ\DEMO_MATRIZ\bin\Debug\netcoreapp3.1\DEMO_MATRIZ.pdb
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Matriz\DEMO_MATRIZ\DEMO_MATRIZ\obj\Debug\netcoreapp3.1\DEMO_MATRIZ.csprojAssemblyReference.cache
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Matriz\DEMO_MATRIZ\DEMO_MATRIZ\obj\Debug\netcoreapp3.1\DEMO_MATRIZ.AssemblyInfoInputs.cache
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Matriz\DEMO_MATRIZ\DEMO_MATRIZ\obj\Debug\netcoreapp3.1\DEMO_MATRIZ.AssemblyInfo.cs
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Matriz\DEMO_MATRIZ\DEMO_MATRIZ\obj\Debug\netcoreapp3.1\DEMO_MATRIZ.csproj.CoreCompileInputs.cache
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Matriz\DEMO_MATRIZ\DEMO_MATRIZ\obj\Debug\netcoreapp3.1\DEMO_MATRIZ.dll
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Matriz\DEMO_MATRIZ\DEMO_MATRIZ\obj\Debug\netcoreapp3.1\DEMO_MATRIZ.pdb
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Matriz\DEMO_MATRIZ\DEMO_MATRIZ\obj\Debug\netcoreapp3.1\DEMO_MATRIZ.genruntimeconfig.cache
