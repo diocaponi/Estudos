@@ -1,0 +1,49 @@
+Fazer um programa para ler um número inteiro N e depois os dados (id, nome e salario) de
+N funcionários. Não deve haver repetição de id.
+Em seguida, efetuar o aumento de X por cento no salário de um determinado funcionário.
+Para isso, o programa deve ler um id e o valor X. Se o id informado não existir, mostrar uma
+mensagem e abortar a operação. Ao final, mostrar a listagem atualizada dos funcionários,
+conforme exemplos.
+Lembre-se de aplicar a técnica de encapsulamento para não permitir que o salário possa
+ser mudado livremente. Um salário só pode ser aumentado com base em uma operação de
+aumento por porcentagem dada.
+
+Exemplo entrada 1:
+
+Quantos funcionários serão registrados? 3
+Funcionário # 1:
+Id: 333
+Nome: Maria Brown
+Salário: 4000,00
+Funcionário nº 2:
+Id: 536
+Nome: Alex Gray
+Salário: 3000,00
+Funcionário # 3:
+Id: 772
+Nome: Bob Green
+Salário: 5.000,00
+Digite a id do funcionário que terá aumento de salário: 536
+Insira a porcentagem: 10,0
+Lista atualizada de funcionários:
+333, Maria Brown, 4000,00
+536, Alex Gray, 3300,00
+772, Bob Green, 5000,00
+___
+
+Exemplo entrada 2:
+
+Quantos funcionários serão registrados? 2
+Funcionário # 1:
+Id: 333
+Nome: Maria Brown
+Salário: 4000,00
+Funcionário nº 2:
+Id: 536
+Nome: Alex Gray
+Salário: 3000,00
+Digite a id do funcionário que terá aumento de salário: 776
+Este id não existe!
+Lista atualizada de funcionários:
+333, Maria Brown, 4000,00
+536, Alex Gray, 3.000,00

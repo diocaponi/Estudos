@@ -1,0 +1,13 @@
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Listas\EX_LISTA\EX_LISTA\bin\Debug\netcoreapp3.1\EX_LISTA.exe
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Listas\EX_LISTA\EX_LISTA\bin\Debug\netcoreapp3.1\EX_LISTA.deps.json
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Listas\EX_LISTA\EX_LISTA\bin\Debug\netcoreapp3.1\EX_LISTA.runtimeconfig.json
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Listas\EX_LISTA\EX_LISTA\bin\Debug\netcoreapp3.1\EX_LISTA.runtimeconfig.dev.json
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Listas\EX_LISTA\EX_LISTA\bin\Debug\netcoreapp3.1\EX_LISTA.dll
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Listas\EX_LISTA\EX_LISTA\bin\Debug\netcoreapp3.1\EX_LISTA.pdb
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Listas\EX_LISTA\EX_LISTA\obj\Debug\netcoreapp3.1\EX_LISTA.csprojAssemblyReference.cache
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Listas\EX_LISTA\EX_LISTA\obj\Debug\netcoreapp3.1\EX_LISTA.AssemblyInfoInputs.cache
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Listas\EX_LISTA\EX_LISTA\obj\Debug\netcoreapp3.1\EX_LISTA.AssemblyInfo.cs
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Listas\EX_LISTA\EX_LISTA\obj\Debug\netcoreapp3.1\EX_LISTA.csproj.CoreCompileInputs.cache
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Listas\EX_LISTA\EX_LISTA\obj\Debug\netcoreapp3.1\EX_LISTA.dll
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Listas\EX_LISTA\EX_LISTA\obj\Debug\netcoreapp3.1\EX_LISTA.pdb
+C:\Estudos\trunk\C#\Memoria_Array_Listas\Listas\EX_LISTA\EX_LISTA\obj\Debug\netcoreapp3.1\EX_LISTA.genruntimeconfig.cache
