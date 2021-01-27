@@ -1,0 +1,5 @@
+Desenvolva um programa em que o usuário entre com um número e a saída seja o dia da semana  correspondente. Utilize 
+Ex:
+1 - Domingo
+2 - Segunda
+3 - Terça

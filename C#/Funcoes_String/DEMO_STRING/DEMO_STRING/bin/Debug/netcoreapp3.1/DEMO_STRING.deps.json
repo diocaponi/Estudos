@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DEMO_STRING/1.0.0": {
+        "runtime": {
+          "DEMO_STRING.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DEMO_STRING/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Estudos\trunk\C#\Funcoes_String\DEMO_STRING\DEMO_STRING\bin\Debug\netcoreapp3.1\DEMO_STRING.exe
+C:\Estudos\trunk\C#\Funcoes_String\DEMO_STRING\DEMO_STRING\bin\Debug\netcoreapp3.1\DEMO_STRING.deps.json
+C:\Estudos\trunk\C#\Funcoes_String\DEMO_STRING\DEMO_STRING\bin\Debug\netcoreapp3.1\DEMO_STRING.runtimeconfig.json
+C:\Estudos\trunk\C#\Funcoes_String\DEMO_STRING\DEMO_STRING\bin\Debug\netcoreapp3.1\DEMO_STRING.runtimeconfig.dev.json
+C:\Estudos\trunk\C#\Funcoes_String\DEMO_STRING\DEMO_STRING\bin\Debug\netcoreapp3.1\DEMO_STRING.dll
+C:\Estudos\trunk\C#\Funcoes_String\DEMO_STRING\DEMO_STRING\bin\Debug\netcoreapp3.1\DEMO_STRING.pdb
+C:\Estudos\trunk\C#\Funcoes_String\DEMO_STRING\DEMO_STRING\obj\Debug\netcoreapp3.1\DEMO_STRING.csprojAssemblyReference.cache
+C:\Estudos\trunk\C#\Funcoes_String\DEMO_STRING\DEMO_STRING\obj\Debug\netcoreapp3.1\DEMO_STRING.AssemblyInfoInputs.cache
+C:\Estudos\trunk\C#\Funcoes_String\DEMO_STRING\DEMO_STRING\obj\Debug\netcoreapp3.1\DEMO_STRING.AssemblyInfo.cs
+C:\Estudos\trunk\C#\Funcoes_String\DEMO_STRING\DEMO_STRING\obj\Debug\netcoreapp3.1\DEMO_STRING.csproj.CoreCompileInputs.cache
+C:\Estudos\trunk\C#\Funcoes_String\DEMO_STRING\DEMO_STRING\obj\Debug\netcoreapp3.1\DEMO_STRING.dll
+C:\Estudos\trunk\C#\Funcoes_String\DEMO_STRING\DEMO_STRING\obj\Debug\netcoreapp3.1\DEMO_STRING.pdb
+C:\Estudos\trunk\C#\Funcoes_String\DEMO_STRING\DEMO_STRING\obj\Debug\netcoreapp3.1\DEMO_STRING.genruntimeconfig.cache
