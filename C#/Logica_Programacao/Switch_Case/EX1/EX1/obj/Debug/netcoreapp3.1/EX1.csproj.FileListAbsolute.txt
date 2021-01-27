@@ -1,0 +1,13 @@
+C:\Estudos\trunk\C#\Logica_Programacao\Switch_Case\EX1\EX1\bin\Debug\netcoreapp3.1\EX1.exe
+C:\Estudos\trunk\C#\Logica_Programacao\Switch_Case\EX1\EX1\bin\Debug\netcoreapp3.1\EX1.deps.json
+C:\Estudos\trunk\C#\Logica_Programacao\Switch_Case\EX1\EX1\bin\Debug\netcoreapp3.1\EX1.runtimeconfig.json
+C:\Estudos\trunk\C#\Logica_Programacao\Switch_Case\EX1\EX1\bin\Debug\netcoreapp3.1\EX1.runtimeconfig.dev.json
+C:\Estudos\trunk\C#\Logica_Programacao\Switch_Case\EX1\EX1\bin\Debug\netcoreapp3.1\EX1.dll
+C:\Estudos\trunk\C#\Logica_Programacao\Switch_Case\EX1\EX1\bin\Debug\netcoreapp3.1\EX1.pdb
+C:\Estudos\trunk\C#\Logica_Programacao\Switch_Case\EX1\EX1\obj\Debug\netcoreapp3.1\EX1.csprojAssemblyReference.cache
+C:\Estudos\trunk\C#\Logica_Programacao\Switch_Case\EX1\EX1\obj\Debug\netcoreapp3.1\EX1.AssemblyInfoInputs.cache
+C:\Estudos\trunk\C#\Logica_Programacao\Switch_Case\EX1\EX1\obj\Debug\netcoreapp3.1\EX1.AssemblyInfo.cs
+C:\Estudos\trunk\C#\Logica_Programacao\Switch_Case\EX1\EX1\obj\Debug\netcoreapp3.1\EX1.csproj.CoreCompileInputs.cache
+C:\Estudos\trunk\C#\Logica_Programacao\Switch_Case\EX1\EX1\obj\Debug\netcoreapp3.1\EX1.dll
+C:\Estudos\trunk\C#\Logica_Programacao\Switch_Case\EX1\EX1\obj\Debug\netcoreapp3.1\EX1.pdb
+C:\Estudos\trunk\C#\Logica_Programacao\Switch_Case\EX1\EX1\obj\Debug\netcoreapp3.1\EX1.genruntimeconfig.cache
