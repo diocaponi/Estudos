@@ -1,0 +1,13 @@
+C:\Estudos\trunk\C#\Date_Time\DEMO_DATETIME\DEMO_DATETIME\bin\Debug\netcoreapp3.1\DEMO_DATETIME.exe
+C:\Estudos\trunk\C#\Date_Time\DEMO_DATETIME\DEMO_DATETIME\bin\Debug\netcoreapp3.1\DEMO_DATETIME.deps.json
+C:\Estudos\trunk\C#\Date_Time\DEMO_DATETIME\DEMO_DATETIME\bin\Debug\netcoreapp3.1\DEMO_DATETIME.runtimeconfig.json
+C:\Estudos\trunk\C#\Date_Time\DEMO_DATETIME\DEMO_DATETIME\bin\Debug\netcoreapp3.1\DEMO_DATETIME.runtimeconfig.dev.json
+C:\Estudos\trunk\C#\Date_Time\DEMO_DATETIME\DEMO_DATETIME\bin\Debug\netcoreapp3.1\DEMO_DATETIME.dll
+C:\Estudos\trunk\C#\Date_Time\DEMO_DATETIME\DEMO_DATETIME\bin\Debug\netcoreapp3.1\DEMO_DATETIME.pdb
+C:\Estudos\trunk\C#\Date_Time\DEMO_DATETIME\DEMO_DATETIME\obj\Debug\netcoreapp3.1\DEMO_DATETIME.csprojAssemblyReference.cache
+C:\Estudos\trunk\C#\Date_Time\DEMO_DATETIME\DEMO_DATETIME\obj\Debug\netcoreapp3.1\DEMO_DATETIME.AssemblyInfoInputs.cache
+C:\Estudos\trunk\C#\Date_Time\DEMO_DATETIME\DEMO_DATETIME\obj\Debug\netcoreapp3.1\DEMO_DATETIME.AssemblyInfo.cs
+C:\Estudos\trunk\C#\Date_Time\DEMO_DATETIME\DEMO_DATETIME\obj\Debug\netcoreapp3.1\DEMO_DATETIME.csproj.CoreCompileInputs.cache
+C:\Estudos\trunk\C#\Date_Time\DEMO_DATETIME\DEMO_DATETIME\obj\Debug\netcoreapp3.1\DEMO_DATETIME.dll
+C:\Estudos\trunk\C#\Date_Time\DEMO_DATETIME\DEMO_DATETIME\obj\Debug\netcoreapp3.1\DEMO_DATETIME.pdb
+C:\Estudos\trunk\C#\Date_Time\DEMO_DATETIME\DEMO_DATETIME\obj\Debug\netcoreapp3.1\DEMO_DATETIME.genruntimeconfig.cache
