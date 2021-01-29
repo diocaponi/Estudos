@@ -1,0 +1,23 @@
+SGBDR - Sistema Gerenciador de Banco de Dados Relacional
+
+DDL - Data Definition Language
+
+CREATE- Cria nova tabela
+ALTER - Modifica um objeto existente, como um tabela
+DROP  - Exclui uma tabela inteira, uma exibição de uma tabela ou outro objeto no banco de dados
+
+DML - Data Manipulation Language
+
+INSERT - Cria um registro (linha)
+UPDATE - Modifica registros
+DELETE - Exclui registro
+
+DCL - Data Control Language
+
+GRANT  - Dá privilégios a um usuário
+REVOKE - Retira privilégios de um usuário
+
+SQL - Data Query Language
+
+SELECT - Obtém registros especificados de uma ou mais tabelas
+
