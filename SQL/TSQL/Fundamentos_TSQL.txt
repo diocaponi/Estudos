@@ -1,0 +1,23 @@
+IDENTITY
+Auto Incremento do TSQL, primeiro critério é o código que irá se iniciar, o segundo é a quantidade que irá se incrementar
+
+Utilização: 
+CREATE TABLE LIVRO
+(ID_Livro SMALLINT PRIMARY KEY IDENTITY (100, 1),[...])
+
+No caso acima, a chave primária ID_Livro irá se iniciar com o código 100 e os próximos serão incrementados 1 (101, 102, etc).
+
+--
+
+UNIQUE
+Indica que o valor do registro será único, não podendo ser repetido.
+
+Utilização:
+ISBN VARCHAR(30) NOT NULL UNIQUE
+
+No caso acima, o valor do campo ISBN não poderá ser nulo e não poderá ser repetido em outro registro.
+
+
+
+
+

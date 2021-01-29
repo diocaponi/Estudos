@@ -17,7 +17,7 @@ DCL - Data Control Language
 GRANT  - Dá privilégios a um usuário
 REVOKE - Retira privilégios de um usuário
 
-SQL - Data Query Language
+DQL - Data Query Language
 
 SELECT - Obtém registros especificados de uma ou mais tabelas
 
