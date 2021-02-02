@@ -1,0 +1,13 @@
+C:\Estudos\trunk\C#\Date_Time\Instancia_TimeSpan\Instancia_TimeSpan\Instancia_TimeSpan\bin\Debug\netcoreapp3.1\Instancia_TimeSpan.exe
+C:\Estudos\trunk\C#\Date_Time\Instancia_TimeSpan\Instancia_TimeSpan\Instancia_TimeSpan\bin\Debug\netcoreapp3.1\Instancia_TimeSpan.deps.json
+C:\Estudos\trunk\C#\Date_Time\Instancia_TimeSpan\Instancia_TimeSpan\Instancia_TimeSpan\bin\Debug\netcoreapp3.1\Instancia_TimeSpan.runtimeconfig.json
+C:\Estudos\trunk\C#\Date_Time\Instancia_TimeSpan\Instancia_TimeSpan\Instancia_TimeSpan\bin\Debug\netcoreapp3.1\Instancia_TimeSpan.runtimeconfig.dev.json
+C:\Estudos\trunk\C#\Date_Time\Instancia_TimeSpan\Instancia_TimeSpan\Instancia_TimeSpan\bin\Debug\netcoreapp3.1\Instancia_TimeSpan.dll
+C:\Estudos\trunk\C#\Date_Time\Instancia_TimeSpan\Instancia_TimeSpan\Instancia_TimeSpan\bin\Debug\netcoreapp3.1\Instancia_TimeSpan.pdb
+C:\Estudos\trunk\C#\Date_Time\Instancia_TimeSpan\Instancia_TimeSpan\Instancia_TimeSpan\obj\Debug\netcoreapp3.1\Instancia_TimeSpan.csprojAssemblyReference.cache
+C:\Estudos\trunk\C#\Date_Time\Instancia_TimeSpan\Instancia_TimeSpan\Instancia_TimeSpan\obj\Debug\netcoreapp3.1\Instancia_TimeSpan.AssemblyInfoInputs.cache
+C:\Estudos\trunk\C#\Date_Time\Instancia_TimeSpan\Instancia_TimeSpan\Instancia_TimeSpan\obj\Debug\netcoreapp3.1\Instancia_TimeSpan.AssemblyInfo.cs
+C:\Estudos\trunk\C#\Date_Time\Instancia_TimeSpan\Instancia_TimeSpan\Instancia_TimeSpan\obj\Debug\netcoreapp3.1\Instancia_TimeSpan.csproj.CoreCompileInputs.cache
+C:\Estudos\trunk\C#\Date_Time\Instancia_TimeSpan\Instancia_TimeSpan\Instancia_TimeSpan\obj\Debug\netcoreapp3.1\Instancia_TimeSpan.dll
+C:\Estudos\trunk\C#\Date_Time\Instancia_TimeSpan\Instancia_TimeSpan\Instancia_TimeSpan\obj\Debug\netcoreapp3.1\Instancia_TimeSpan.pdb
+C:\Estudos\trunk\C#\Date_Time\Instancia_TimeSpan\Instancia_TimeSpan\Instancia_TimeSpan\obj\Debug\netcoreapp3.1\Instancia_TimeSpan.genruntimeconfig.cache
