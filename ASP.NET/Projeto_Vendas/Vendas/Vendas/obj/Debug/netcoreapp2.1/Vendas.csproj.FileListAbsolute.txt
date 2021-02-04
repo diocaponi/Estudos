@@ -33,3 +33,4 @@ C:\Estudos\trunk\ASP.NET\Projeto_Vendas\Vendas\Vendas\obj\Debug\netcoreapp2.1\Ve
 C:\Estudos\trunk\ASP.NET\Projeto_Vendas\Vendas\Vendas\obj\Debug\netcoreapp2.1\Vendas.pdb
 C:\Estudos\trunk\ASP.NET\Projeto_Vendas\Vendas\Vendas\obj\Debug\netcoreapp2.1\Vendas.genruntimeconfig.cache
 C:\Estudos\trunk\ASP.NET\Projeto_Vendas\Vendas\Vendas\obj\Debug\netcoreapp2.1\Vendas.csproj.CopyComplete
+C:\Estudos\trunk\ASP.NET\Projeto_Vendas\Vendas\Vendas\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Index.cshtml.g.cs
