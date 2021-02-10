@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 
+
 namespace Vendas.Models
 {
     public class VendasContext : DbContext
